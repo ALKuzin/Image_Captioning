@@ -1,5 +1,4 @@
-# Image_Captioning
-https://cloud.mail.ru/public/w9ws/2QDdoPi5t - vocabulary and weights for network.
+
 # Examples
 ![Безымянный](https://user-images.githubusercontent.com/88197357/172662028-84a0d9bb-c3f0-43ea-9191-e3e33d86c477.png)
 ![Безымянный2](https://user-images.githubusercontent.com/88197357/172662085-72b052e2-64e9-4d33-97ce-a30ba129c0f3.png)
